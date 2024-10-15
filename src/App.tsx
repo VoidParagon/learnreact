@@ -4,7 +4,6 @@ import Message from './Message'
 function App(){
   return <div>
     <ListGroup />
-    <ListGroup />
     
     </div>;
 }
